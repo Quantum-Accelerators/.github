@@ -1,2 +1,3 @@
-# .github
-The GitHub profile of the Rosen Research Group
+# Welcome!
+
+There's something brewing here... ☕
